@@ -1,5 +1,5 @@
 title: Михайло Апостол
-description: Моя сторінка.
-show_downloads: true
+description: Моя сторінка
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
